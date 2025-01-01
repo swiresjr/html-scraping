@@ -1,10 +1,12 @@
 **Deliverable 1 Source Code**
+
 I received the following code from *Xpert Learning Assistant*:
  - Cell 5, Line 2
  - Cell 6, Line 2
  - Cell 7, Lines 5-13
 
 **Deliverable 2 Source Code**
+
 I received the following code from *Xpert Learning Assistant*:
  - Cell 5, Line 2
  - Cell 6, Lines 2-8
