@@ -11,5 +11,6 @@ I received the following code from *Xpert Learning Assistant*:
  - Cell 7, Lines 2-3
  - Cell 15, Lines 2-10
  - Cell 16, Lines 2-12
+   
 I received the following code from *Geeks for Geeks*:
  - Cell 10, Lines 2-4 (https://www.geeksforgeeks.org/change-the-data-type-of-a-column-or-a-pandas-series/)
